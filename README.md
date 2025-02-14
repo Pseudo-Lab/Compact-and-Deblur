@@ -12,6 +12,7 @@ This repository is ```CompactGS & DeBlur```.  <br/>  This curated collection of
 현재 Compact와 관련된 논문에 대해서는 어느 정도 기존 스터디원과 진행 중에 있어, 3월 중순 혹은 4월 부터 Deblur 관련 논문을 리뷰할 예정입니다.
 그리고, 관련 논문으로는 [Compact3DGS](https://arxiv.org/abs/2311.13681), [DeblurGS](https://arxiv.org/pdf/2403.13327), 그리고 [BAD-NeRF](https://wangpeng000.github.io/BAD-NeRF/), 등이 있습니다.
 논문은 년도별로 순차적으로 읽으며, 스터디장이 매주 스터디 진행한 당일에 다음 주에 읽고 발표햘 논문에 대해서 정해줍니다. (스터디원이 관심있으신 논문과 발표하고 싶은 논문이 있으시면 미리 말씀주시면 반영하겠습니다.)
+이전 스터디 [링크](https://github.com/Pseudo-Lab/NeRFwithRealWorld)를 참고하시면 감사하겠습니다.
 
 저희 **스터디는 밀도 있고, 심도 있는 이해를 목표**로 진행할 예정입니다. 
 그리하여 다음과 같은 [LINK](https://github.com/Pseudo-Lab/Pseudo3DV)를 따릅니다.
