@@ -1,7 +1,9 @@
 # CompactGS & DeBlur
 
 ## Overall
-This repository is ```CompactGS & DeBlur```.  <br/>  This curated collection of resources is related tackling efficiency & Real-world problems based on3D-GS. <br/>  Furthermore, currently we are currently operating papers and code review study in [PsuedoLab](https://discord.gg/mNAT2GKM). Go check it out!  <br/> (Every Thursday at 9pm, PseudoLab Discord Room YL!)
+This repository for ```CompactGS & DeBlur```.  
+Our group belongs to [Pseudo3DV](https://github.com/Pseudo-Lab/Pseudo3DV). <br/> 
+This curated collection of resources is related tackling efficiency & Real-world problems based on3D-GS. <br/>  Furthermore, currently we are currently operating papers and code review study in [PsuedoLab](https://discord.gg/mNAT2GKM). Go check it out!  <br/> (Every Thursday at 9pm, PseudoLab Discord Room YL!)
 
 ### 스터디 소개
 **"리처드 파인만(Feynman)"**
@@ -11,7 +13,7 @@ This repository is ```CompactGS & DeBlur```.  <br/>  This curated collection of
 관련 키워드로는 Blurring, Real-World, 그리고 Compactness등이 있습니다. 
 현재 Compact와 관련된 논문에 대해서는 어느 정도 기존 스터디원과 진행 중에 있어, 3월 중순 혹은 4월 부터 Deblur 관련 논문을 리뷰할 예정입니다.
 그리고, 관련 논문으로는 [Compact3DGS](https://arxiv.org/abs/2311.13681), [DeblurGS](https://arxiv.org/pdf/2403.13327), 그리고 [BAD-NeRF](https://wangpeng000.github.io/BAD-NeRF/), 등이 있습니다.
-논문은 년도별로 순차적으로 읽으며, 스터디장이 매주 스터디 진행한 당일에 다음 주에 읽고 발표햘 논문에 대해서 정해줍니다. (스터디원이 관심있으신 논문과 발표하고 싶은 논문이 있으시면 미리 말씀주시면 반영하겠습니다.)
+ **논문은 년도별로 순차적으로 읽으며,스터디장이 매주 스터디 진행한 당일에 다음 주에 읽고 발표햘 논문에 대해서 정해줍니다.** (스터디원이 관심있으신 논문과 발표하고 싶은 논문이 있으시면 미리 말씀주시면 반영하겠습니다.)
 이전 스터디 [링크](https://github.com/Pseudo-Lab/NeRFwithRealWorld)를 참고하시면 감사하겠습니다.
 
 저희 **스터디는 밀도 있고, 심도 있는 이해를 목표**로 진행할 예정입니다. 
@@ -37,17 +39,29 @@ ${\textsf{\color{red}*  캠(CAM)을 필수로 켜야 합니다.}}$
 
 ## 활동 기간
 ### 첫 모임 날짜 & 시간 & 장소
-- 날짜: 3월 6일 (목요일)
+- 날짜: 3월 13일 (목요일)
 - 시간: 오후 9시
 - 장소: [#ROOM-YL](https://discord.gg/nbpAWKUm)
 
  
 
 ## Team member
-- _Wongi Park_ | [Github](https://github.com/kalelpark) | [LinkedIn](https://www.linkedin.com/in/wongipark/) |
-- _Minsol Kim_ | [Github](https://github.com/kim-minsol) |
+
+| Role          | Name | LINK |                                                                   Research interest                          |
+|---------------|------|-----------------------------------------------------------------------|----------------------------------------|
+| **Project Manager** | _Wongi Park_ | [Github](https://github.com/kalelpark) [LinkedIn](https://www.linkedin.com/in/wongipark/)| 3DV with Real World             |
+| **Member** |  _Seongjun Choi_ | [Github](https://github.com/DrawingProcess)  [LinkedIn](https://www.linkedin.com/in/seongjun-choi-60b718205/) | 3DV & Autonomous driving                  |
+| **Member** | _Minsol Kim_  | [Github](https://github.com/kim-minsol) | 3DV                  |
+| **Member** | _Myeongseok Nam_  | [LinkedIn](https://www.linkedin.com/in/nbril/) | 3DV                  |
+| **Member** | _Jiyeon Lim_  |  | 3DV                  |
+
 
 ## Schedule
 
-| Date | Paper | Task | Speaker |
-| -------- | -------- | ---- | ---- |
+| Date | Paper  | Speaker |
+|---------------|-----------------------------------------------------------------------|----------------------------------------|
+| 01/16  | [(ECCV24) Compact3d: Compressing gaussian splat radiance field models with vector quantization](https://arxiv.org/abs/2311.18159)  | _Wongi Park_ |
+| 01/16  | [(CVPR24) Compact 3d gaussian representation for radiance field](https://arxiv.org/abs/2311.13681)  | _Minsol Kim_ |
+| 02/06 | [(NIPS24 LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS](https://arxiv.org/abs/2311.17245)  | _Jiyeon Lim_  |
+| 02/06 | [(ECCV24) Pixel-GS Density Control with Pixel-aware Gradient for 3D Gaussian Splatting](https://pixelgs.github.io/)  | _Myeongseok Nam_ |
+| 02/13 | [(CVPR24) Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering](https://arxiv.org/abs/2312.00109) | _Minsol Kim_ |
