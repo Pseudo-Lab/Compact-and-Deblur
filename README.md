@@ -3,7 +3,7 @@
 ## Overall
 This repository for ```CompactGS & DeBlur```.  
 Our group belongs to [Pseudo3DV](https://github.com/Pseudo-Lab/Pseudo3DV). <br/> 
-This curated collection of resources is related tackling efficiency & Real-world problems based on3D-GS. <br/>  Furthermore, currently we are currently operating papers and code review study in [PsuedoLab](https://discord.gg/mNAT2GKM). Go check it out!  <br/> (Every Thursday at 9pm, PseudoLab Discord Room YL!)
+This curated collection of resources is related tackling efficiency & Real-world problems based on3D-GS. <br/>  Furthermore, currently we are currently operating papers and code review study in [PsuedoLab](https://discord.gg/mNAT2GKM). Go check it out!  <br/> (Every Saturday at 9pm, PseudoLab Discord Room YL!)
 
 ### 스터디 소개
 **"리처드 파인만(Feynman)"**
@@ -24,6 +24,7 @@ This curated collection of resources is related tackling efficiency & Real-world
 - **NeRF에 대해서 읽어보고, 테스트 해보신 분**
 - **건설적인 의사소통을 지향하는 분**
 - **코드 읽는데 큰 부담 없으신 분**
+- **향후 모임 진행 시 참여 가능하신 분**
 
 ${\textsf{\color{red}* NeRF, 3D-GS에 대한 기본적인 이해가 필요하며, 적극적으로 건설적인 의사소통 하실 분을 선호합니다.}}$
 ${\textsf{\color{red}*  캠(CAM)을 필수로 켜야 합니다.}}$
