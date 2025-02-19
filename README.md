@@ -2,7 +2,7 @@
 
 ## Overall
 This repository for ```CompactGS & DeBlur```.  
-Our group belongs to [PseudoWild](https://github.com/Pseudo-Lab/PseudoWild). <br/> 
+Our group belongs to [Pseudo3DV](https://github.com/Pseudo-Lab/Pseudo3DV). <br/> 
 This curated collection of resources is related tackling efficiency & Real-world problems based on3D-GS. <br/>  Furthermore, currently we are currently operating papers and code review study in [PsuedoLab](https://discord.gg/mNAT2GKM). Go check it out!  <br/> (Every Saturday at 9pm, PseudoLab Discord Room YL!)
 
 ### 스터디 소개
